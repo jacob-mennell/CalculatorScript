@@ -1,0 +1,11 @@
+add 2
+multiply 2
+add 7
+add 2
+multiply 6
+divide 3
+add 4
+subtract 4
+multiply 2
+divide 2
+apply 5
