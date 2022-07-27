@@ -11,4 +11,4 @@ Instructions: 'add', 'subtract', 'multiply', 'divide', 'apply' The last instruct
     [Output to screen]
     15
 
-    :return: float
+    :return: 51 (float)
